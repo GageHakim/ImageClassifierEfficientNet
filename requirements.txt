@@ -3,3 +3,4 @@ torchvision
 numpy
 scikit-learn
 efficientnet-pytorch
+Pillow
